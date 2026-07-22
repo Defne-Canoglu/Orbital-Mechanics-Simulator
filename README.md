@@ -59,6 +59,8 @@ where:
 ---
 
 ## Project Structure
+
+```text
 Orbital-Mechanics-Simulator
 
 ├── src
@@ -71,6 +73,7 @@ Orbital-Mechanics-Simulator
 │
 └── results
     └── orbit.png
+```
 
 ## Future Roadmap
 
