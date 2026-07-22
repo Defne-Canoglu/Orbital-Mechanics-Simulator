@@ -37,15 +37,15 @@ The spacecraft motion is modeled using Newton's law of universal gravitation.
 
 The gravitational acceleration is calculated as:
 
-\[
+$$
 a = -\frac{GM}{r^3}r
-\]
+$$
 
 where:
 
-- **G** = gravitational constant
-- **M** = Earth mass
-- **r** = spacecraft position vector
+- \(G\) is the gravitational constant
+- \(M\) is the mass of Earth
+- \(r\) is the spacecraft position vector
 
 ---
 
