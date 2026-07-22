@@ -6,7 +6,7 @@ A Python-based orbital simulation project developed to explore spacecraft motion
 
 ---
 
-## 🌍 Overview
+## Overview
 
 This project simulates spacecraft motion around Earth using Newtonian gravitational mechanics.
 
@@ -19,7 +19,7 @@ The goal is to build a computational framework for understanding:
 
 ---
 
-## ✨ Features
+## Features
 
 Current capabilities:
 
@@ -49,7 +49,7 @@ where:
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 - Python
 - NumPy
@@ -62,16 +62,15 @@ where:
 Orbital-Mechanics-Simulator
 
 ├── src
-│ ├── physics.py
-│ └── orbit.py
+│   ├── __init__.py
+│   ├── physics.py
+│   └── orbit.py
 │
 ├── examples
-│ └── earth_orbit.py
+│   └── earth_orbit.py
 │
 └── results
-└── orbit.png
-
----
+    └── orbit.png
 
 ## Future Roadmap
 
