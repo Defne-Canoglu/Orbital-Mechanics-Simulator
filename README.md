@@ -1,4 +1,4 @@
-# 🚀 Orbital Mechanics Simulator
+# Orbital Mechanics Simulator
 
 A Python-based orbital simulation project developed to explore spacecraft motion, satellite trajectories, and astrodynamics concepts.
 
@@ -31,7 +31,7 @@ Current capabilities:
 
 ---
 
-## 🧮 Mathematical Model
+## Mathematical Model
 
 The spacecraft motion is modeled using Newton's law of universal gravitation.
 
@@ -58,7 +58,7 @@ where:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 Orbital-Mechanics-Simulator
 
 ├── src
@@ -73,7 +73,7 @@ Orbital-Mechanics-Simulator
 
 ---
 
-## 🚀 Future Roadmap
+## Future Roadmap
 
 - [ ] Runge-Kutta 4 (RK4) integration
 - [ ] Keplerian orbital elements
@@ -84,7 +84,7 @@ Orbital-Mechanics-Simulator
 
 ---
 
-## 👩‍🚀 Author
+## Author
 
 **Defne Canoğlu**
 
